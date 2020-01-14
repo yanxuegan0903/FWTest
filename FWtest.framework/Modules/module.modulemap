@@ -1,0 +1,6 @@
+framework module FWtest {
+  umbrella header "FWtest.h"
+
+  export *
+  module * { export * }
+}
