@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
     s.platform = :ios, '9.0'
     s.name         = "FWTest"
-    s.version      = "0.0.2"
+    s.version      = "0.0.4"
     s.summary      = "咚咚APP 简版SDK"
 
     s.description  = <<-DESC
